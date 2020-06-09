@@ -7,6 +7,6 @@ end
 def list_dwarves(array)
  array.each_with_index do |element , index|
    p index
-   print element
+   p element
  end
 end
